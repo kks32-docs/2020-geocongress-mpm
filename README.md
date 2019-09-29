@@ -1,5 +1,4 @@
-# Modeling Irregular Boundaries Using Isoparametric Elements in Material
-Point Method
+# Modeling Irregular Boundaries Using Isoparametric Elements in Material Point Method
 > Ezra Y. S. Tjung, Shyamini Kularathna, Krishna Kumar, and Kenichi Soga
 
 ## Abstract
